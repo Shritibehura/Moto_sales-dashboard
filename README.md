@@ -44,6 +44,11 @@ The dashboard provides monthly, city-level, and brand-specific breakdowns, enabl
    Combo chart (bar + line) revealing daily sales trends for optimized campaign planning.
 
 ---
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="moto_sales%20dashboard.png" alt="Motorola Sales Dashboard" width="700"/>
+</p>
 
 ## 🗂️ Filters Available
 
