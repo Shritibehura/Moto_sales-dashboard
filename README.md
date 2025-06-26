@@ -80,17 +80,3 @@ These filters allow for granular insights tailored to specific customer segments
 
 ---
 
-## 📂 Repository Structure (Optional)
-
-```plaintext
-/PowerBI-Dashboard
-├── Motorola_Sales_Dashboard.pbix     # Power BI file
-├── Dataset/
-│   ├── sales_data.csv
-│   ├── customer_data.csv
-│   └── product_data.csv
-├── README.md
-└── Screenshots/
-    ├── overview.png
-    ├── sales_by_city.png
-    └── sales_by_model.png
