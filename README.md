@@ -3,9 +3,7 @@
 An interactive Power BI dashboard visualizing Motorola’s mobile sales performance across India. Designed to provide actionable insights into sales trends, customer behavior, transaction methods, and regional distribution—empowering data-driven decision-making across business functions.
 
 ---
-## 📸 Dashboard Preview
 
-![Dashboard Overview](Screenshots/dashboard.png)
 ## 🔍 Overview
 
 This project features a dynamic Power BI dashboard that delivers both high-level summaries and drill-down insights into Motorola’s sales data. The dashboard is built with user-friendly visuals, slicers, and filters to support business intelligence analysis.
