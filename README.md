@@ -1,48 +1,91 @@
-Motorola Sales Dashboard | Power BI
+# 📊 Motorola Sales Dashboard – Power BI
 
-This project features an interactive Power BI dashboard that visualizes Motorola’s mobile sales performance across India. It offers insights into brand-wise sales, customer behavior, transaction methods, and regional trends to support business intelligence and strategic decision-making.
+An interactive Power BI dashboard visualizing Motorola’s mobile sales performance across India. Designed to provide actionable insights into sales trends, customer behavior, transaction methods, and regional distribution—empowering data-driven decision-making across business functions.
 
-Overview :
-The Power BI dashboard delivers a high-level summary and drill-down capabilities into:
-Total Sales (₹769M)
-Total Quantity Sold (19K)
-Number of Transactions (4K)
-Average Sale Value (₹40K)
-Built with dynamic filters and visuals, this dashboard is a powerful tool for tracking monthly trends, city-level distribution, customer preferences, and product performance.
+---
 
-Key Visualizations
-1. Total Sales by City
-Interactive map showing sales concentration across Indian cities like Bangalore, Mumbai, Hyderabad, Delhi, and more.
-2. Total Quantity by Month
-Line chart tracking sales quantity month-wise to identify seasonal trends and high/low performing months.
-3. Customer Ratings
-Horizontal bar chart visualizing customer feedback distribution (ratings 1–5).
-4. Transactions by Payment Method
-Donut chart showing percentage split of UPI, Debit Card, Credit Card, and Cash payments.
-5. Sales by Mobile Brand
-Table showing brand-wise metrics: Apple, Samsung, OnePlus, Vivo, Xiaomi.
-6. Total Sales by Mobile Model
-Horizontal bar chart highlighting top-selling models (e.g., iPhone SE, OnePlus Nord, Galaxy Note).
-7. Sales by Day of Week
-Line + bar combo chart showcasing daily sales trends for strategic planning of campaigns and releases.
+## 🔍 Overview
 
-Filters Available:
-1. Mobile Model
-2. Payment Method
-3. Brand
-4. Customer Age Group
-These filters help in granular data exploration and personalized insights for specific customer segments or product lines.
+This project features a dynamic Power BI dashboard that delivers both high-level summaries and drill-down insights into Motorola’s sales data. The dashboard is built with user-friendly visuals, slicers, and filters to support business intelligence analysis.
 
-Tools & Features:
-Power BI Desktop,
-Interactive Slicers,
-Advanced DAX Calculations,
-Map Visual Integration,
-Responsive Visual Layout,
-Clean UI Design with brand-aligned aesthetics
+**Key Metrics Tracked:**
+- 💰 **Total Sales**: ₹769M  
+- 📦 **Total Quantity Sold**: 19K  
+- 🧾 **Number of Transactions**: 4K  
+- 📊 **Average Sale Value**: ₹40K  
 
-Impact & Use Cases :
-Useful for Sales Teams to monitor performance.
-Helps Marketing Teams identify peak days and customer preferences.
-Assists Product Teams in tracking demand by model and brand.
-Enables Executives to make strategic, data-driven decisions.
+The dashboard provides monthly, city-level, and brand-specific breakdowns, enabling cross-functional teams to extract personalized insights.
+
+---
+
+## 📌 Key Visualizations
+
+1. **Total Sales by City**  
+   Interactive map showing sales concentration across major Indian cities like Bangalore, Mumbai, Hyderabad, and Delhi.
+
+2. **Total Quantity by Month**  
+   Line chart tracking monthly sales quantity to identify seasonal trends and peak performance periods.
+
+3. **Customer Ratings**  
+   Horizontal bar chart displaying distribution of customer feedback (ratings from 1 to 5).
+
+4. **Transactions by Payment Method**  
+   Donut chart showing percentage split of UPI, Debit Card, Credit Card, and Cash transactions.
+
+5. **Sales by Mobile Brand**  
+   Table comparing metrics for leading brands: Apple, Samsung, OnePlus, Vivo, Xiaomi.
+
+6. **Total Sales by Mobile Model**  
+   Horizontal bar chart showcasing top-performing models such as iPhone SE, OnePlus Nord, Galaxy Note.
+
+7. **Sales by Day of Week**  
+   Combo chart (bar + line) revealing daily sales trends for optimized campaign planning.
+
+---
+
+## 🗂️ Filters Available
+
+Dynamic filters (slicers) included to enhance data exploration:
+- 📱 Mobile Model  
+- 💳 Payment Method  
+- 🏷️ Brand  
+- 👥 Customer Age Group  
+
+These filters allow for granular insights tailored to specific customer segments, products, or regions.
+
+---
+
+## 🧰 Tools & Features
+
+- 📌 Power BI Desktop  
+- 🔍 Interactive Slicers & Filters  
+- 💡 Advanced DAX Calculations  
+- 🗺️ Map Visual Integration  
+- 📐 Responsive Visual Layout  
+- 🎨 Clean UI Design with Motorola-aligned color scheme  
+
+---
+
+## 🎯 Impact & Use Cases
+
+✅ **Sales Teams**: Track KPIs and product performance in real time  
+✅ **Marketing Teams**: Identify peak sales days and customer preferences  
+✅ **Product Teams**: Analyze demand by mobile model and brand  
+✅ **Executives**: Make informed, data-driven strategic decisions  
+
+---
+
+## 📂 Repository Structure (Optional)
+
+```plaintext
+/PowerBI-Dashboard
+├── Motorola_Sales_Dashboard.pbix     # Power BI file
+├── Dataset/
+│   ├── sales_data.csv
+│   ├── customer_data.csv
+│   └── product_data.csv
+├── README.md
+└── Screenshots/
+    ├── overview.png
+    ├── sales_by_city.png
+    └── sales_by_model.png
